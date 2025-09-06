@@ -1,0 +1,32 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjU3NzgxOCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEE2MEIyMjVENTVCNjBBMUEzMERBOERiMjk0QzE1NGVhZWI2M0E5NkEifQ",
+    "payload": "eyJkb21haW4iOiJjb2luLXVwLWRvd24udmVyY2VsLmFwcCJ9",
+    "signature": "MHg3NzQ3Yzc2ZTYxMGZiMjZhMjJmOWYzNDUzMTBlNWVlNTU4ODE5MjVjYzVjMWM5OWU5ZDViMWY5ZmFlM2Y1NjQxNGZlOGY2ZTI1OTI3NDY1MGE3Yjk5MWQzOTkxNWY0NzljNjUyYWEwZWQzZDYzMDI2Zjk2NmVlYzNiYTNhMmUzMjFj"
+  },
+  "baseBuilder": {
+    "allowedAddresses": ["0xA60B225D55B60A1A30DA8Db294C154eaeb63A96A"]
+  },
+  "frame": {
+    "version": "1",
+    "name": "Coin Up Down",
+    "homeUrl": "https://coin-up-down.vercel.app",
+    "iconUrl": "https://coin-up-down.vercel.app/icon.png",
+    "splashImageUrl": "https://coin-up-down.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://coin-up-down.vercel.app/api/webhook",
+    "subtitle": "Predict ETH price movements",
+    "description": "A fun way to predict whether ETH will go up or down. Test your crypto intuition and compete with friends in real-time price predictions.",
+    "screenshotUrls": [
+      "https://coin-up-down.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "games",
+    "tags": ["prediction", "crypto", "ethereum", "game", "defi"],
+    "heroImageUrl": "https://coin-up-down.vercel.app/hero.png",
+    "tagline": "Predict ETH moves instantly",
+    "ogTitle": "Coin Up Down - ETH Prediction Game",
+    "ogDescription": "Predict whether ETH will go up or down. Test your crypto intuition!",
+    "ogImageUrl": "https://coin-up-down.vercel.app/hero.png",
+    "noindex": false
+  }
+}
